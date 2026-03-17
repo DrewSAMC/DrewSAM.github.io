@@ -24,7 +24,7 @@ repository               : "gfsalves/gfsalves.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "eu.jpg"
   name             : "Gustavo Alves"
   pronouns         : # example: "she/her"  
   bio              : "Physicist, PhD Student at the University of Sao Paulo, Brazil." 
