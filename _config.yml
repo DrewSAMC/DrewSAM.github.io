@@ -17,7 +17,7 @@ url                      : https://DrewSAM.github.io # the base hostname & proto
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 languages                : ["en-US", "pt-BR"] # the languages your site is available in, e.g. ["en-US", "pt-BR"]
 default_lang             : "en-US" # the default language for your site, e.g. "en-US"
-repository               : "gfsalves/gfsalves.github.io"
+repository               : "DrewSAMC/DrewSAM.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
